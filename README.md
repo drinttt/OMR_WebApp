@@ -1,4 +1,3 @@
-# begin_streamlit
 # install venv
 pip install virtualenv
 
